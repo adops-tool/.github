@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h1>AdOps: Programmatic Core</h1>
-
   <img src="https://img.shields.io/badge/Status-Private_Workspace-149a9e?style=for-the-badge&logo=github&logoColor=white" alt="Private Workspace" />
   <img src="https://img.shields.io/badge/Sector-AdTech_&_Programmatic-149a9e?style=for-the-badge" alt="AdTech" />
   <img src="https://img.shields.io/badge/Infrastructure-Automation-149a9e?style=for-the-badge" alt="Automation" />
