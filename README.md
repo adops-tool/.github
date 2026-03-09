@@ -1,3 +1,4 @@
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=200&amplitude=40&frequency=1&layers=3&color_top=149a9e&color_bottom=084c4e&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=6&text=+AdOps%3A+Programmatic+Core&text_color=ffffff&text_size=60&text_style=bold&text_stroke_color=0d1117&text_stroke_width=10&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_align=middle)
 <div align="center">
 
   <img src="https://img.shields.io/badge/Status-Private_Workspace-149a9e?style=for-the-badge&logo=github&logoColor=white" alt="Private Workspace" />
@@ -49,5 +50,6 @@ Access to this organization is restricted to authorized team members and approve
 1. **Authentication:** Ensure your GitHub account is linked to the appropriate internal Team. Use [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) for all repository cloning.
 2. **Environment Variables:** Most applications require active API credentials. Duplicate the `.env.example` file to `.env` locally and request current access tokens from the AdOps Engineering Lead.
 3. **Contribution:** Direct commits to the `main` branch are disabled. All updates must be submitted via Pull Requests from feature branches.
-
 <br>
+
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=100&amplitude=33&frequency=1&layers=3&color_top=149a9e&color_bottom=084c4e&opacity=1&flip=false&gradient=true&mirror=true&animate=true&speed=6&text=&text_color=ffffff&text_size=28&text_style=normal&text_stroke_color=000000&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_align=middle)
